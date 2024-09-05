@@ -1,4 +1,4 @@
-👋 Hi, I'm @Losif22, my name is Andrii and I'm from Ukraine. I am in the city of Kryvyi Rih, I am 16 years old.
+👋 Hi, I'm @Losif22, my name is Andrii and I'm from Ukraine, I am 16 years old.
 
 👀 I am interested in the world of programming, and I have been engaged in this exciting business for two years. My favorite programming languages are C++. I am always looking for interesting projects and opportunities to improve my skills.
 
