@@ -5,13 +5,10 @@
 </p>
 
 ## About me
-[![Discord](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/BaggerFast)
-[![Telegram](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/c/baggerfast)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/l0s1f22)
 
 I am a Junior C++ developer from Ukraine. 
-
-I'm interested in web development, games. I hate JavaScript💀  
-At the same time, I upload videos on YouTube and teach students programming.
+I am very interested in programming in C++. I am also learning Python because I want to study neural networks.
 
 ## 📌Pinned
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Losif22&repo=NumReader&theme=dracula&bg_color=00000000&)](https://github.com/Losif22/NumReader)
