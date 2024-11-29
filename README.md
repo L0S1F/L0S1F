@@ -20,9 +20,9 @@ I am very interested in programming in C++. I am also learning Python because I 
     <h3>Langs</h3>
     <img src="https://skillicons.dev/icons?i=cpp,py,html,css,&perline=4" />
     <h3>Frameworks / Tools</h3>
-    <img src="https://skillicons.dev/icons?i=unity,gradle,spring,linux,hibernate,githubactions,django,docker,git,bootstrap&perline=7" />
+    <img src="https://skillicons.dev/icons?i=unreal,cmake,qt,git,&perline=4" />
     <h3>Software</h3>
-    <img src="https://skillicons.dev/icons?i=visualstudio,idea,neovim,postman,ultimate&perline=7" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,pycharm&perline=3" />
     <br>
   </p>
 </details>
