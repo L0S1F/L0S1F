@@ -14,7 +14,7 @@ I'm interested in web development, games. I hate JavaScript💀
 At the same time, I upload videos on YouTube and teach students programming.
 
 ## 📌Pinned
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BaggerFast&repo=ItManuals&theme=dracula&bg_color=00000000&)](https://github.com/BaggerFast/ItManuals)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Losif22&repo=NumReader&theme=dracula&bg_color=00000000&)](https://github.com/Losif22/NumReader)
 
 
 <details align="left">
