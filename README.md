@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello! I'm LOSIF </h1>
 
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ <img width="600" src="assets/photo1.png" alt="photo1"/>
 </p>
 
 ## About me
