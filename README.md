@@ -11,7 +11,7 @@ I am a Junior C++ developer from Ukraine.
 I am very interested in programming in C++. I am also learning Python because I want to study neural networks.
 
 ## 📌Pinned
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Losif22&repo=NumReader&theme=dracula&bg_color=00000000&)](https://github.com/Losif22/NumReader)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Losif22&repo=NumReader&bg_color=00000000&)](https://github.com/Losif22/NumReader)
 
 
 <details align="left">
