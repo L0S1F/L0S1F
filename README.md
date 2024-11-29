@@ -31,9 +31,9 @@ I am very interested in programming in C++. I am also learning Python because I 
 <details align="left">
   <summary><h2><b>⭐GitHub stats</b></h2></summary>
   <p>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Losif22&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Losif22&theme=merko&layout=compact&hide_border=true&bg_color=00000000" />
    <br>
-   <img src="https://github-readme-stats.vercel.app/api?username=Losif22&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
+   <img src="https://github-readme-stats.vercel.app/api?username=Losif22&count_private=true&show_icons=true&theme=merko&hide_border=true&bg_color=00000000" />
     <br>
    <img src="https://metrics.lecoq.io/baggerfast" />
   </p>
