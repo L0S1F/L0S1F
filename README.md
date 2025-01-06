@@ -5,7 +5,6 @@
 </p>
 
 ## About me
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/l0s1f22)
 
 I am a Junior C++ developer from Ukraine. 
 I am very interested in programming in C++. I am also learning Python because I want to study neural networks.
