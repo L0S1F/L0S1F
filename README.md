@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello! I'm LOSIF </h1>
 
 <p align="center">
- <img width="600" src="welcome.gif"/>
+ <img src="https://www.codewars.com/users/Losif22/badges/large"/>
 </p>
 
 ## About me
