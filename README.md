@@ -7,10 +7,10 @@
 ## About me
 
 I am a Junior C++ developer from Ukraine. 
-I am very interested in programming in C++. I am also learning Python because I want to study neural networks.
+I am very interested in programming in C++.
 
 ## 📌Pinned
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Losif22&repo=NumReader&theme=tokyonight&bg_color=00000000&)](https://github.com/Losif22/NumReader)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=L0S1F&repo=NumReader&theme=tokyonight&bg_color=00000000&)](https://github.com/L0S1F/NumReader)
 
 
 <details align="left">
@@ -30,9 +30,9 @@ I am very interested in programming in C++. I am also learning Python because I 
 <details align="left">
   <summary><h2><b>⭐GitHub stats</b></h2></summary>
   <p>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Losif22&theme=merko&layout=compact&hide_border=true&bg_color=00000000" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0S1F&theme=merko&layout=compact&hide_border=true&bg_color=00000000" />
    <br>
-   <img src="https://github-readme-stats.vercel.app/api?username=Losif22&count_private=true&show_icons=true&theme=merko&hide_border=true&bg_color=00000000" />
+   <img src="https://github-readme-stats.vercel.app/api?username=L0S1F&count_private=true&show_icons=true&theme=merko&hide_border=true&bg_color=00000000" />
     <br>
    <img src="https://metrics.lecoq.io/baggerfast" />
   </p>
